@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="http://www.okta.com/exk4q5fceqhYmgi4m697" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDqjCCApKgAwIBAgIGAYcgXrLiMA0GCSqGSIb3DQEBCwUAMIGVMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxFjAUBgNVBAMMDXRyaWFsLTc0NTg1ODAxHDAaBgkqhkiG9w0B
+CQEWDWluZm9Ab2t0YS5jb20wHhcNMjMwMzI3MDAwMDI5WhcNMzMwMzI3MDAwMTI5WjCBlTELMAkG
+A1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDTAL
+BgNVBAoMBE9rdGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMRYwFAYDVQQDDA10cmlhbC03NDU4NTgw
+MRwwGgYJKoZIhvcNAQkBFg1pbmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCoalAQ8AMIIB
+CgKCAQEAx6f26ftS1WtLORPRqUxeWm1v3pHWpp7Rfg3DRfHMHTxQH+nveOsLwmvVLgm0AXDUqlXp
+ymbQ52Kn2aUymswiED29qsWtE4Bdk1G7rUbiFGJ0jGzlgRy3r5GTrXDTnXnxas+acRqvm2xG3XgT
+CdXmaMYsrWRw5me2DOx6r6SZYc6w6LOFEpWMWlggg1xEREZ4givyvRpqiHk5NiBPvcpcpR9WZ/1p
+vHr//oI8xZ3x2oSbUGwSk0YNJBby8BNUarzQXzbTyhiDJzO3LhoQsryXzzLOxjo1X+LlF3sbzMw0
+5eAdlbKxp09xIW1k8BinT+Kq3pMYT88BrlThldgJRCPbzwIDAQABMA0GCSqGSIb3DQEBCwUAA4IB
+AQBv5hixIgN1ZCUPEwpth+246fhkQry/hSQ3ojfmaRTPphe8tliNjQCixRzNJn0JRAe8A9CQz33T
+0fqU6YopoC+kdHqctmXxDKFEJJHuSORuCJsU1M4y55bpaZke4AArsQ94rHIn+pI2Zi8kJdmpOjv2
+xTOrCmfkaojRjWFHAivNUUyaC4OC7TZe1oFpaG6mfphQD2q0vVZR9htqqMQTiOlgLuT+VDFsXj3F
+NE7voQbdthjfEy9/N/qVohcrZSCJnzoR7NvQueemVsnOVN55+g0HwukiWgO9mikC8QbTRkZOwjkK
+h0jgvGPxj+50hq7CfoNgF6cA0U5ZAtnHuCjdNsja</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://trial-7458580.okta.com/app/trial-7458580_awsclientvpnselfservice_1/exk4q5fceqhYmgi4m697/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://trial-7458580.okta.com/app/trial-7458580_awsclientvpnselfservice_1/exk4q5fceqhYmgi4m697/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>
